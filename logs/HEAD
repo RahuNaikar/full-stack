@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 4227636cc665704b62911408996fdf5806a01994 Sagar M S <2005sagarms@gmail.com> 1749401294 +0530	commit (initial): Initial commit
+4227636cc665704b62911408996fdf5806a01994 f5b6e4900133c2cba464b923b2cd9a11df247b3e Sagar M S <2005sagarms@gmail.com> 1749404164 +0530	commit (merge): Merge remote and local project
+f5b6e4900133c2cba464b923b2cd9a11df247b3e 0000000000000000000000000000000000000000 Sagar M S <youremail@example.com> 1749404312 +0530	Branch: renamed refs/heads/main to refs/heads/main
+f5b6e4900133c2cba464b923b2cd9a11df247b3e f5b6e4900133c2cba464b923b2cd9a11df247b3e Sagar M S <youremail@example.com> 1749404312 +0530	Branch: renamed refs/heads/main to refs/heads/main
+f5b6e4900133c2cba464b923b2cd9a11df247b3e 61355e1aac18cb83554f1f48bb2f01778184df83 Sagar M S <youremail@example.com> 1749404757 +0530	commit: Setup for deployment via GitHub Pages
+61355e1aac18cb83554f1f48bb2f01778184df83 0000000000000000000000000000000000000000 Sagar M S <youremail@example.com> 1749404758 +0530	Branch: renamed refs/heads/main to refs/heads/main
+61355e1aac18cb83554f1f48bb2f01778184df83 61355e1aac18cb83554f1f48bb2f01778184df83 Sagar M S <youremail@example.com> 1749404758 +0530	Branch: renamed refs/heads/main to refs/heads/main
+61355e1aac18cb83554f1f48bb2f01778184df83 e5ef2ad5b06c895af0442a59de21dcbd7e11469f Sagar M S <youremail@example.com> 1749405476 +0530	commit: Initial commit
+e5ef2ad5b06c895af0442a59de21dcbd7e11469f 0000000000000000000000000000000000000000 Sagar M S <youremail@example.com> 1749405476 +0530	Branch: renamed refs/heads/main to refs/heads/main
+e5ef2ad5b06c895af0442a59de21dcbd7e11469f e5ef2ad5b06c895af0442a59de21dcbd7e11469f Sagar M S <youremail@example.com> 1749405476 +0530	Branch: renamed refs/heads/main to refs/heads/main
+e5ef2ad5b06c895af0442a59de21dcbd7e11469f 76c652cea5ab00fcbcc0ff14ec6409f6b7060c3d Sagar M S <youremail@example.com> 1749406100 +0530	commit: Initial commit
+76c652cea5ab00fcbcc0ff14ec6409f6b7060c3d 0000000000000000000000000000000000000000 Sagar M S <youremail@example.com> 1749406100 +0530	Branch: renamed refs/heads/main to refs/heads/main
+76c652cea5ab00fcbcc0ff14ec6409f6b7060c3d 76c652cea5ab00fcbcc0ff14ec6409f6b7060c3d Sagar M S <youremail@example.com> 1749406100 +0530	Branch: renamed refs/heads/main to refs/heads/main
+76c652cea5ab00fcbcc0ff14ec6409f6b7060c3d 0000000000000000000000000000000000000000 Sagar M S <youremail@example.com> 1749406521 +0530	Branch: renamed refs/heads/main to refs/heads/main
+76c652cea5ab00fcbcc0ff14ec6409f6b7060c3d 76c652cea5ab00fcbcc0ff14ec6409f6b7060c3d Sagar M S <youremail@example.com> 1749406521 +0530	Branch: renamed refs/heads/main to refs/heads/main
+76c652cea5ab00fcbcc0ff14ec6409f6b7060c3d b70154a8226005eea23fc0d2c3fe116eb685ee33 Sagar M S <youremail@example.com> 1749442838 +0530	commit: Setup portfolio for GitHub Pages
